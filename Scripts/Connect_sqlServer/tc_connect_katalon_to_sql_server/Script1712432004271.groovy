@@ -18,5 +18,5 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 CustomKeywords.'com.db.sqlServer.connectDB'("DESKTOP-74788IK\\SQLEXPRESS:1433","test_connent_db_with_katalon", "sa","123456")
-CustomKeywords.'com.db.sqlServer.executeQuery'("select * from CAR")
+CustomKeywords.'com.db.sqlServer.executeQuery'("select * from [ORDER]")
 CustomKeywords.'com.db.sqlServer.closeDbConnect'()
