@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc_connect_katalon_to_sql_server</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6a076949-5d1b-49d4-b021-b2309dd8e389</testCaseGuid>
+</TestCaseEntity>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Project>
    <description></description>
-   <name>hhahaha</name>
+   <name>connect_sqlServer</name>
    <tag></tag>
-   <UUID>837d01a2-c961-4c5b-be63-3d8d5ca8c185</UUID>
+   <UUID>5e61ec39-8364-4465-be4a-5aecdf637c7d</UUID>
    <createdEdition>ENTERPRISE</createdEdition>
    <createdVersion>9.3.2</createdVersion>
    <freeLicense>false</freeLicense>
@@ -11,6 +11,7 @@
    <modifiedEdition>ENTERPRISE</modifiedEdition>
    <modifiedVersion>9.3.2</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>D:\workspace_3\connect_sqlServer\connect_sqlServer.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
