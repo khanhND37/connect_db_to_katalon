@@ -1,5 +1,5 @@
 {
-  "keywordFileContentHash": "BF917864A82018B2AD935681F1953618",
+  "keywordFileContentHash": "077D7832B75D69DF76087B9C1033728E",
   "keywordClasses": [
     {
       "name": "com.db.sqlServer",
@@ -59,8 +59,7 @@
                 "errorOnParsing": false
               }
             }
-          ],
-          "javadoc": ""
+          ]
         },
         {
           "name": "executeQuery",
@@ -78,16 +77,14 @@
                 "errorOnParsing": false
               }
             }
-          ],
-          "javadoc": ""
+          ]
         },
         {
           "name": "closeDbConnect",
-          "parameters": [],
-          "javadoc": ""
+          "parameters": []
         }
       ]
     }
   ],
-  "javadocParsed": true
+  "javadocParsed": false
 }
